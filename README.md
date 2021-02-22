@@ -17,12 +17,12 @@ pip install -r requirements.txt
 ```
 
 In diesem Beispiel enthaltenen Bibliotheken sind:
-- pandas == 1.0.1
-- numpy == 1.18.1
-- matplotlib == 3.1.3
-- seaborn == 0.11.1
-- cufflinks == 0.17.3
-- scikit-learn==0.24.1
+- pandas = 1.0.1
+- numpy = 1.18.1
+- matplotlib = 3.1.3
+- seaborn = 0.11.1
+- cufflinks = 0.17.3
+- scikit-learn = 0.24.1
 
 Für die Auführung der jeweiligen Python Programme, wurden die hier enthalten Dateien verwendet. 
 
